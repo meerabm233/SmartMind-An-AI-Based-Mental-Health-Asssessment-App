@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "975428648183",
+    "project_id": "smartmind-new",
+    "storage_bucket": "smartmind-new.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:975428648183:android:0fa7ffc14de746ba8827f2",
+        "android_client_info": {
+          "package_name": "com.mind.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBnfYJ3AhjmZ_x4lvdbgwa_gwwTECCVMk8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
